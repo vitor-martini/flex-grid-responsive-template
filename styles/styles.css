@@ -166,7 +166,7 @@ footer p {
 }
 
 figure {
-  animation: appear 0.4s 0.2s backwards;
+  animation: appear 0.8s 0.2s backwards;
 }
 
 @keyframes appear {
@@ -179,7 +179,7 @@ figure {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1440px) {
   header {
     flex-direction: row;
     justify-content: space-between;
